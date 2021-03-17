@@ -8,7 +8,7 @@ user.propTypes = {
 function user(props) {
     return (
         <div>
-            <h1>Hello user</h1>    
+            <h1>Hello user edit new branch</h1>    
         </div>
     );
 }
